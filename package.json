@@ -1,0 +1,16 @@
+{
+"name": "cosca888",
+"theme": "cosca888",
+"version": "10.8.9",
+"description": "cosca888 สมัครเว็บไซต์พนันเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
+"keywords": [
+"cosca888",
+"cosca888 เครดิตฟรี",
+"cosca888 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/cosca888",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
